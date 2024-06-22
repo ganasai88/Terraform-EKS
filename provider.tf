@@ -2,8 +2,8 @@ provider "aws" {
   region = "us-east-1"
    
     # Configure Terraform to use IAM user credentials
-  access_key = "AKIA3FLD4HIRUIDFJE6G"
-  secret_key = "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"
+  access_key = "" # inlcude the keys
+  secret_key = ""#include the keys
 
 }
 
